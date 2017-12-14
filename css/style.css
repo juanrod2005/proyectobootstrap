@@ -1,0 +1,12 @@
+@import "http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css";
+.barra-negra {
+  background: black;
+  color: white;
+  padding: 16px;
+  font-family: sans-serif;
+  text-align: center; }
+
+.listasfooter {
+  list-style: none; }
+
+/*# sourceMappingURL=style.css.map */
